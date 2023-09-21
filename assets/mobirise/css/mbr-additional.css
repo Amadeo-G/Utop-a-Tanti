@@ -678,14 +678,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-tPDZH9D6da {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #363636;
-}
-.cid-tPDZH9D6da img {
-  width: auto;
-}
 .cid-tOpGcBJpzJ .navbar {
   padding: .5rem 0;
   background: #363636;
@@ -1100,6 +1092,14 @@ section.lazy-placeholder:after {
 }
 .cid-tOpGcBJpzJ .mbr-iconfont {
   font-size: 1.6rem;
+}
+.cid-tPDZH9D6da {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #363636;
+}
+.cid-tPDZH9D6da img {
+  width: auto;
 }
 .cid-tPE9yADGzT {
   padding-top: 30px;
